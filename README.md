@@ -15,10 +15,10 @@ Reforçando o aprendizado de HTML/CSS e uso da semântica.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=https://github.com/weszzy/portfolio/blob/main/img/screenshots/Captura%20da%20Web_9-5-2022_233741_127.0.0.1.jpeg)
+![App Screenshot](https://user-images.githubusercontent.com/97072132/167534196-5f4e7db0-e241-40df-a990-f5a940673697.jpeg)
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=https://github.com/weszzy/portfolio/blob/main/img/screenshots/Captura%20da%20Web_9-5-2022_23376_127.0.0.1.jpeg)
+![App Screenshot](https://user-images.githubusercontent.com/97072132/167534198-b42f0861-bae4-4ea5-baab-e08b6b3caca9.jpeg)
 
 ## Documentação de cores
 
