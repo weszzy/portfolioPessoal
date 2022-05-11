@@ -93,6 +93,7 @@ footer p {
     text-align: center;
     color: white;
     justify-content: center;
+    display: inline-block;
 }
 
 .basicHTML img {
@@ -199,6 +200,7 @@ a:link {
     padding: 1rem 2rem;
     transition: .2s;
     margin: 1rem 4rem;
+    white-space: nowrap;
 }
 
 .link-1:hover,
