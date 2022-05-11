@@ -1,6 +1,6 @@
 # Portfólio 
 
-Portfólio HTML puro e CSS com Projetos e aba para Contato.
+Portfólio pessoal HTML puro e CSS com Projetos e aba para Contato.
 
 
 ## Autores
